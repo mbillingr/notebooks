@@ -1,2 +1,2 @@
 # notebooks
-Jupyter Notebooks of things I find interesting
+Jupyter Notebooks about things I find interesting
